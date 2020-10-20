@@ -11,4 +11,7 @@ NOVEDADES v2
 
 -Titulo del textarea no seleccionable
 
--textarea arreglat(lo que escribias no se guardaba)
+
+-textarea arreglat(el que escribies no es guardava)
+
+-fondo gris añadido
