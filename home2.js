@@ -17,6 +17,7 @@ function m(){<br>
                         
                         
 */
+
 var direction=2;
 
 function constructor(s){
@@ -95,3 +96,13 @@ document.onkeydown = function(e) {
             break; 
         } 
 };
+
+/** FUNCIONES MOVIMIENTO **/
+
+window.onload = function() {
+
+        document.getElementById('personaje').style.left = "100";
+    
+}
+
+
